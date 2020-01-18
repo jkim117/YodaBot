@@ -24,7 +24,7 @@ def main():
 	finalMessage = finalTime + '. ' + messages[randMesage]
 	
 	myMessage = {
-		"bot_id"  : "84d3cd2c54dd669d6f6b92d2fd",
+		"bot_id"  : "8600598b4736f9748065663205",
 		"text"    : finalMessage,
 		"picture_url" : images[randImg]
 	}
